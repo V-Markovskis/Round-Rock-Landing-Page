@@ -86,5 +86,35 @@ body {
 
 /* PAGE TWO */
 
+.title-page-two {
+    padding-top: 50px;
+    font-size: 64px;
+    font-weight: 800;
+    color: #828282;
+}
+
+.page-two-col1 {
+    border: 1px solid #000;
+}
+
+.symbol-image {
+    width: 100px;
+    height: 100px;
+}
+
+.symbol-container {
+    text-align: center;
+}
+
+.symbol-container img {
+    display: block;
+    text-align: left;
+    margin-top: -45px;
+}
+
+
+.h6-header, .h6-paragraph {
+    padding: 0 20px;
+}
 
 
