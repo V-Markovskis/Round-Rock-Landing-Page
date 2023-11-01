@@ -1,3 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Poppins:wght@800&display=swap');
+
 body {
     background-color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
 }
+/* ROW ONE - PAGE ONE*/
+.custom-container-one {
+    width: 1900px;
+    height: 840px;
+    background-image: url(assets/images/grass-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title-first {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row-first {
+    padding-top: 58px;
+}
+
+.header-round-rock {
+    font-size: 60px;
+    font-weight: 800;
+    color: #fff;
+}
+
+.logo-one {
+    padding-right: 20px;
+    filter: brightness(0) invert(1); // brightness makes all image black and invert(1) makes the black parts white
+}
+
+.yard {
+    font-size: 27px;
+    display: block;
+    letter-spacing: 8px;
+}
+
+
+/* ROW TWO - PAGE ONE*/
+
+
+.second-row {
+    padding-top: 50px;
+}
+
+.first-button {
+    padding: 10px 30px;
+    border-radius: 59px;
+    background-color: #00000080;
+}
+
+
+/* ROW THREE - PAGE ONE*/
+
+.title-two-lorem {
+    font-size: 144px;
+    font-weight: 900;
+    color: #fff;
+}
+
+.third-row {
+    align-items: center;
+    align-content: center;
+}
+
+
+/* ROW FOUR - PAGE ONE*/
+.row-four {
+    padding-top: 80px;
+}
+
+.button-two {
+    background-color: #fff;
+    border-radius: 35px;
+    color: #48924F;
+    font-weight: 700;
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+}
+
+/* PAGE TWO */
+
+
+
