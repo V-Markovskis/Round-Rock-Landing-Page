@@ -149,7 +149,7 @@ body {
 
 
 
-.page-four-custome-col {
+.page-four-custom-col {
     border: 1px solid #6CB981;
     border-radius: 40px;
 }
@@ -161,6 +161,35 @@ body {
 .person-name {
     color: #6CB981;
 }
+
+
+/* PAGE FIVE */
+
+.enter-text-placeholder {
+    width: 70%;
+    background-color: #9FDEA9;
+    border-radius: 61px;
+}
+
+.enter-text-placeholder::placeholder {
+    color: #000;
+}
+
+.customer-button-page-five {
+    background-color: #fff;
+    border: 3px solid #4DB96B;
+    border-radius: 61px;
+    color: #4DB96B;
+    padding: 10px 30px;
+}
+
+.ending-background {
+    margin-top: 80px;
+    height: 145px;
+    background-color: #324B29;
+}
+
+
 
 
 
